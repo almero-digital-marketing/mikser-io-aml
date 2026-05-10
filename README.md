@@ -1,6 +1,6 @@
 # mikser-io-aml
 
-ArchieML plugin for [Mikser](https://github.com/almero-digital-marketing/mikser-io). Parses entities with `format: 'aml'` using [archieml](https://archieml.org/) and merges the result into `entity.meta`.
+ArchieML plugin for [Mikser](https://github.com/almero-digital-marketing/mikser-io). Parses entities with `format: 'aml'` using [archieml](https://www.npmjs.com/package/archieml) and merges the result into `entity.meta`.
 
 ## Install
 
