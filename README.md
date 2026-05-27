@@ -2,6 +2,8 @@
 
 ArchieML plugin for [Mikser](https://github.com/almero-digital-marketing/mikser-io). Parses entities with `format: 'aml'` using [archieml](https://www.npmjs.com/package/archieml) and merges the result into `entity.meta`.
 
+ArchieML is the format the *New York Times* and *ProPublica* use for journalist-friendly structured content — comment-tolerant, indentation-loose, easy to write inside a Google Doc and paste back. Reach for this plugin when the people authoring content aren't developers and `.yml` front-matter is too strict about syntax.
+
 ## Install
 
 ```bash
