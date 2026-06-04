@@ -1,11 +1,10 @@
 {
   "name": "mikser-io-aml",
-  "version": "3.2.1",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/almero-digital-marketing/mikser-io-aml.git"
@@ -18,5 +17,8 @@
   "homepage": "https://github.com/almero-digital-marketing/mikser-io-aml#readme",
   "dependencies": {
     "archieml": "^0.5.0"
+  },
+  "peerDependencies": {
+    "mikser-io": "^7.0.0"
   }
 }
