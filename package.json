@@ -1,6 +1,6 @@
 {
   "name": "mikser-io-aml",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -19,6 +19,6 @@
     "archieml": "^0.5.0"
   },
   "peerDependencies": {
-    "mikser-io": "^8.0.0"
+    "mikser-io": "^9.0.0"
   }
 }
