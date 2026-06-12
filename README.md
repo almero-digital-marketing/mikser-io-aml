@@ -14,8 +14,10 @@ npm install mikser-io-aml
 
 ```js
 // mikser.config.js
+import { aml } from 'mikser-io-aml'
+
 export default {
-  plugins: ['aml']
+  plugins: [aml()]
 }
 ```
 
