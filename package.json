@@ -1,6 +1,6 @@
 {
   "name": "mikser-io-aml",
-  "version": "6.0.0",
+  "version": "11.0.1",
   "description": "ArchieML plugin for Mikser. Parses entities with `format: 'aml'` using archieml and merges the result into `entity.meta`.",
   "main": "index.js",
   "type": "module",
@@ -21,9 +21,9 @@
     "archieml": "^0.5.0"
   },
   "peerDependencies": {
-    "mikser-io": "^10.0.0"
+    "mikser-io": "^11.0.1"
   },
   "devDependencies": {
-    "mikser-io": "^10.0.0"
+    "mikser-io": "^11.0.1"
   }
 }
